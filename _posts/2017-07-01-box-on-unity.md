@@ -15,7 +15,7 @@ Unity has a special edition for only mac. I originally tried to use its .NET SDK
 
 I used its REST API instead. Below would be a simple guide to use them.
 
-Here I would only talk about steps for OAuth 2.0 with JWT authentication method.
+Here I would only talk about steps for **OAuth 2.0 with JWT** authentication method.
 
 Box Setup
 -----------------------------------------
@@ -111,5 +111,4 @@ IEnumerator GetToken(System.Action<string> callBack) {
 	}
 	callBack (token.access_token);
 }
-</code></pre>
 
