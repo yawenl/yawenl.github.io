@@ -1,7 +1,7 @@
 ---
 title: Using Jekyll on Windows
 teaser: Plenty of bugs when you launch a Jekyll template on Windows? Read this post!
-category: lacinia
+category: problems
 tags: [windows, jekyll]
 featured_comments:
   - url: 
